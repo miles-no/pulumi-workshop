@@ -25,8 +25,10 @@ Prerequisites: Pulumi, dotnet (6), Azure CLI
 
 Dersom du blir ferdig før tiden, kan f.eks.:
 
-* Gjøre den workshoppen på en annen skyplattform over, eller 
+* Gjøre AWS-workshop hvis du er ferdig med Azure, og vica versa
+* Prøv å deploy og lek deg med et større eksempel fra Pulumis How-To bibliotek: [AWS](https://www.pulumi.com/registry/packages/aws/how-to-guides/) [Azure](https://www.pulumi.com/registry/packages/azure-native/how-to-guides/)
 * Velge du kan velge en annen kombinasjon av sky/programmeringsspråk: (https://github.com/pulumi/infrastructure-as-code-workshop)
+
 * Hjelpe en kollega på workshoppen :)
 * Lese deg opp på litt teori fra Ressursene under.
 * Eksperimentere eller leke deg med andre tjenester i det du har jobbet med allerede.
