@@ -6,9 +6,8 @@ Pulumi workshop til Camp Miles
 [Download & Install Pulumi](https://www.pulumi.com/docs/get-started/install/)
 
 De forskjellige labbene har litt forskjellige prerequites
-[Andre Prerequisites] (https://github.com/pulumi/infrastructure-as-code-workshop/blob/master/00-installing-prerequisites.md)
+[Andre Prerequisites](https://github.com/pulumi/infrastructure-as-code-workshop/blob/master/00-installing-prerequisites.md)
 
-I tillegg trenger du en editor, eks. Visual Studio Code fungerer utmerket, i tillegg til git.
 
 ## AWS - TypeScript
 
@@ -35,7 +34,9 @@ Dersom du blir ferdig før tiden, kan f.eks.:
 
 # Ressurser
 
-[Pulumi arkitektur og konsepter] (https://www.pulumi.com/docs/intro/concepts/)
-[Pulumi CLI (kommandoer)] (https://www.pulumi.com/docs/reference/cli/)
-[Pulumi SDK referanser] (https://www.pulumi.com/docs/reference/pulumi-sdk/)
-
+[Pulumi arkitektur og konsepter](https://www.pulumi.com/docs/intro/concepts/)
+[Pulumi CLI (kommandoer)](https://www.pulumi.com/docs/reference/cli/)
+[Pulumi SDK referanser](https://www.pulumi.com/docs/reference/pulumi-sdk/)
+[AWS API Docs](https://www.pulumi.com/registry/packages/aws/)
+[Azure in the Pulumi registry](https://www.pulumi.com/registry/packages/azure-native/)
+[Azure API Docs](https://www.pulumi.com/registry/packages/azure-native/api-docs/)
