@@ -73,3 +73,7 @@ Dersom du blir ferdig før tiden, kan f.eks.:
 - [AWS API Docs](https://www.pulumi.com/registry/packages/aws/)
 - [Azure in the Pulumi registry](https://www.pulumi.com/registry/packages/azure-native/)
 - [Azure API Docs](https://www.pulumi.com/registry/packages/azure-native/api-docs/)
+
+# Annet
+
+- [How I learned to stop worrying and love the YAML](https://leebriggs.co.uk/blog/2022/05/09/learning-to-love-yaml)
