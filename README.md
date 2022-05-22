@@ -43,6 +43,11 @@ $ aws sts get-caller-identity
 
 ## Azure - C#
 
+Noen av dere har MSDN-abonnement som også gir deg gratis credits i Azure. Hvis du har dette, og ennå ikke har aktivert dette, så kan det gjøres på: [my.visualstudio.com](https://my.visualstudio.com)
+
+Dersom du ikke har MSDN, kan du registrere deg for et gratis prøveabonnement her: [Azure trial](https://azure.microsoft.com/nb-no/free/)
+
+
 Prerequisites: Pulumi, dotnet (6), Azure CLI
 
 [C# på Azure](https://github.com/pulumi/infrastructure-as-code-workshop/blob/master/labs/azure/csharp/README.md)
