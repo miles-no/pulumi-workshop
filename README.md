@@ -36,9 +36,9 @@ Dersom du blir ferdig før tiden, kan f.eks.:
 
 # Ressurser
 
-[Pulumi arkitektur og konsepter](https://www.pulumi.com/docs/intro/concepts/)
-[Pulumi CLI (kommandoer)](https://www.pulumi.com/docs/reference/cli/)
-[Pulumi SDK referanser](https://www.pulumi.com/docs/reference/pulumi-sdk/)
-[AWS API Docs](https://www.pulumi.com/registry/packages/aws/)
-[Azure in the Pulumi registry](https://www.pulumi.com/registry/packages/azure-native/)
-[Azure API Docs](https://www.pulumi.com/registry/packages/azure-native/api-docs/)
+- [Pulumi arkitektur og konsepter](https://www.pulumi.com/docs/intro/concepts/)
+- [Pulumi CLI (kommandoer)](https://www.pulumi.com/docs/reference/cli/)
+- [Pulumi SDK referanser](https://www.pulumi.com/docs/reference/pulumi-sdk/)
+- [AWS API Docs](https://www.pulumi.com/registry/packages/aws/)
+- [Azure in the Pulumi registry](https://www.pulumi.com/registry/packages/azure-native/)
+- [Azure API Docs](https://www.pulumi.com/registry/packages/azure-native/api-docs/)
