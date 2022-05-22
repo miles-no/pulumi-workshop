@@ -15,6 +15,32 @@ Prerequisites: Pulumi, Node.js, AWS CLI
 
 [TypeScript på AWS](https://github.com/pulumi/infrastructure-as-code-workshop/blob/master/labs/aws/in-person/typescript/README.md)
 
+### Credentials
+
+Dere får utdelt tilgang tilgang til AWS underveis.
+For å autentisere med AWS kan du kjøre kommandoen `aws configure` (etter at CLI'et er installert):
+
+```
+$ aws configure
+AWS Access Key ID [None]: <my access key id>
+AWS Secret Access Key [None]: <my secret access key>
+Default region name [None]: eu-north-1
+Default output format [None]: json
+```
+
+Merk at region må settes til `eu-north-1`.
+
+Verifiser så at tilgangene er på plass:
+```
+$ aws sts get-caller-identity
+{
+    "Account": "278642226010", 
+    "UserId": "<my access key id>", 
+    "Arn": "arn:aws:iam::278642226010:user/<my username>"
+}
+```
+
+
 ## Azure - C#
 
 Prerequisites: Pulumi, dotnet (6), Azure CLI
