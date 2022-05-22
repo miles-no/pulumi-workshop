@@ -5,6 +5,8 @@ Pulumi workshop til Camp Miles
 
 [Download & Install Pulumi](https://www.pulumi.com/docs/get-started/install/)
 
+**MERK:** Man må være innlogget for at Pulumi skal få riktig tilstand av prosjektene man håndterer. Standard innloggingsmetode krever at du oppretter en bruker hos Pulumi, men det er også mulig å logge inn uten bruker og kun beholde tilstand på lokal maskin ved å kjøre kommandoen `pulumi login --local`. Ved å opprette en bruker hos Pulumi så kan man følge med på tilstanden til prosjektene sine på pulumi.com, men for denne workshopen så holder det å logge inn med `--local` om man ikke er interessert i å sjekke ut web GUIet.
+
 De forskjellige labbene har litt forskjellige prerequites
 [Andre Prerequisites](https://github.com/pulumi/infrastructure-as-code-workshop/blob/master/00-installing-prerequisites.md)
 
